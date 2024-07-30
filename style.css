@@ -101,7 +101,7 @@ button:hover {
   background-color: #1a4031;
 }
 
-@media screen and (min-width: 768px) {
+/* @media screen and (min-width: 768px) {
   .cardCont {
     flex-direction: row;
     padding-bottom: 0px;
@@ -115,6 +115,7 @@ button:hover {
   .desktopImg {
     display: block;
     width: 140%;
+    max-width: 35rem;
     border-bottom-left-radius: 12px;
     border-top-left-radius: 12px;
   }
@@ -141,4 +142,4 @@ button:hover {
   p {
     font-size: 1.1rem;
   }
-}
+} */
